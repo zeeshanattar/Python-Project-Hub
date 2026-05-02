@@ -1,12 +1,12 @@
 Swiggg Sales 
 
-1)Project Title
+-----1)Project Title
 The purpose of creating a swiggy sales is to turn large volumes of order and revenue data into a clear, real-time view of business performance so teams can make faster and better decisions.
 
-2) Purpose
+-----2) Purpose
 A Swiggy sales project is not just about numbers—it’s about learning how to analyze a real business, generate insights, and support smarter decisions using data.
 
-3) Tech Stack
+-----3) Tech Stack
 The Project was built using the following tools and technologies:
 
 Jupyter Notebook : Main programming platform used for report creation.
